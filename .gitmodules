@@ -1,0 +1,4 @@
+[submodule "mROS_app"]
+	path = mROS_app
+	url = https://github.com/rdbox-intec/ev3rt-athrill-ARMv7-A.git
+	branch = master
